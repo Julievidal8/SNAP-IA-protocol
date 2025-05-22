@@ -9,3 +9,5 @@ A detailed video explaining the SNAP protocol, along with, we hope, helpful advi
 This video follows a previous one published with our first IA article (Vidal et al., 2024). We recommend this new version for its updated insights (Vidal et al., 2025, In prep.).
 
 A general illustration of the SNAP steps is also available in the file SNAP-IA.jpg.
+
+Citation: Vidal, J. P., ... & Barbeau, E. J. (in prep.) SNAP-IA: New standardized methodology for the assessment of the Interthalamic Adhesion using anatomical MRI. 
